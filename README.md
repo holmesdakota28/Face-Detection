@@ -32,7 +32,7 @@ The purpose of this project, we create a face detector algorithm that is trained
  Below we have screenshots of successful classified faces and nonsuccessful classified faces in multiple images. 
   </p>
   
- <img src="images/SuccessFace.png" alt="Logo" width="900" height="540">
+ <img src="images/SuccessFace.png" alt="Logo">
  <br />
  
 <!-- CONTACT -->
