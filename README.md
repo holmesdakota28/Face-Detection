@@ -7,11 +7,7 @@
   <h3 align="center">CPU Datapath Design Mobile App</h3>
 
   <p align="center">
-   
-    <br />
-     Dakota Holmes
-    <br />
-  
+     Created by Dakota Holmes
   </p>
 </p>
 
