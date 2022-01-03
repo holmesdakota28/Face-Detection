@@ -7,9 +7,9 @@
   <h3 align="center">CPU Datapath Design Mobile App</h3>
 
   <p align="center">
-   An awesome educational tool for educating developers on computer architecture CPU datapath design elements.
+   
     <br />
-  Created by Matt Faulk & Dakota Holmes
+     Dakota Holmes
     <br />
   
   </p>
