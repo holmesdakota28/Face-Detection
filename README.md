@@ -4,10 +4,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">CPU Datapath Design Mobile App</h3>
+  <h3 align="center">Face Detection Algorithms</h3>
 
   <p align="center">
-     Created by Dakota Holmes
+     Created by Dakota Holmes, Joseph Mancillas, & Marquiese Thompson
   </p>
 </p>
 
@@ -16,8 +16,7 @@
 ## About The Project
 
 <p align="left">
-  Understanding how computers work can be a daunting task. To the average person, the complex systems that make up these machines may as well be witchcraft. This is why we decided to create a beginner friendly mobile application that unmasks the mystery behind how the average CPU (Central Processing Unit) works at a microarchitectural level.
-  
+The purpose of this project, we create a face detector algorithm that is trained using Adaboost which combines information from taking integrals of each image and choosing a set of random weak classifiers whose size is realitive to the amount of images being use.  
  
   </p>
  
