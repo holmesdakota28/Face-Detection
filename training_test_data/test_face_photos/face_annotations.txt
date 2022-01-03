@@ -1,0 +1,21 @@
+% {photo_file_name, face1:[top=147 bottom=227 left=97 rright=177], face2:...}
+annotations{1} = {'clintonAD2505_468x448.jpg', [147 227 97 177], [57 139 238 313]};
+annotations{2} = {'DSC01181.JPG', [142 182 158 197], [145 185 232 270]};
+annotations{3} = {'DSC01418.JPG', [123 148 264 286], [130 152 306 329]};
+annotations{4} = {'DSC02950.JPG', [127 240 399 502]};
+annotations{5} = {'DSC03292.JPG', [93 178 170 260], [123 201 322 403]};
+annotations{6} = {'DSC03318.JPG', [189 247 179 239], [158 238 334 415]};
+annotations{7} = {'DSC03457.JPG', [144 175 128 158], [92 121 178 207], [95 130 224 258]};
+annotations{8} = {'DSC04545.JPG', [57 87 120 152]};
+annotations{9} = {'DSC04546.JPG', [106 138 194 227]};
+annotations{10} = {'DSC06590.JPG', [168 213 119 159], [192 229 372 408]};
+annotations{11} = {'DSC06591.JPG', [181 223 291 331], [261 314 346 396]};
+annotations{12} = {'IMG_3793.JPG', [173 245 136 203], [199 254 276 332], [208 265 350 411], [161 234 453 518]};
+annotations{13} = {'IMG_3794.JPG', [170 212 110 149], [155 190 202 236], [177 205 315 343], [171 207 446 484], [145 192 551 593]};
+annotations{14} = {'IMG_3840.JPG', [201 269 151 213], [203 263 262 324], [223 287 372 431], [155 238 478 550]};
+annotations{15} = {'jackie-yao-ming.jpg', [46 78 94 125], [62 92 174 201]};
+annotations{16} = {'katie-holmes-tom-cruise.jpg', [56 103 94 142], [73 117 198 242]};
+annotations{17} = {'mccain-palin-hairspray-horror.jpg', [59 140 101 180], [103 178 255 332]};
+annotations{18} = {'obama8.jpg', [86 158 110 181]};
+annotations{19} = {'phil-jackson-and-michael-jordan.jpg', [35 76 59 93], [33 76 153 194]};
+annotations{20} = {'the-lord-of-the-rings_poster.jpg', [223 268 1 36], [130 171 7 41], [14 82 27 85], [23 93 121 189], [36 95 226 277], [191 256 236 290], [302 346 258 299]};
