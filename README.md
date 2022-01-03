@@ -31,8 +31,9 @@ The purpose of this project, we create a face detector algorithm that is trained
 <p>
  Below we have screenshots of successful classified faces and nonsuccessful classified faces in multiple images. 
   </p>
-  
+  Successfully located face in image
  <img src="images/SuccessFace.png" alt="Logo">
+  Nonsuccessful locating face attempt
  <img src="images/NonSuccessFace.png" alt="Logo">
  <br />
  
