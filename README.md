@@ -24,47 +24,20 @@ The purpose of this project, we create a face detector algorithm that is trained
 
 ### Built With
 
-* [React Native](https://reactnative.dev/)
-* [React Native Collapsible View](https://eliav2.github.io/react-native-collapsible-view/)
+* [Matlab](https://www.mathworks.com/?s_tid=mlh_gn_logo)
 
 
-
-### Installation
-
-In an IDE suitable for Javascript such as VS Code, open up your terminal.
-<br />
-
-1) Install npm by typing
-  ```sh
-   npm install
-  ```
-2) Install Expo 
-  ```sh
-   npm install --global expo-cli
-  ```
-3) After opening the app folder in your IDE, type
-  ```sh
-  npm start
-  ```
-  
 ## Usage
 <p>
- Below we have several screenshots of the mobile application, displaying the main page and the collapsible view function.
+ Below we have several screenshots of successful classified faces and nonsuccessful classified faces in multiple images. 
   </p>
   
  <img src="images/sidebyside.png" alt="Logo" width="1445" height="540">
  <br />
- <a href="https://www.youtube.com/watch?v=PmcetJLw2bQ">
-  Check out our 15 minute video presentation describing this project!
-  </a>
-
-
-
+ 
 <!-- CONTACT -->
 ## Contact
 
-Matthew Faulk - mkf61@txstate.edu
-<br />
 Dakota Holmes - holmesdakota28@gmail.com
 
 
