@@ -33,6 +33,7 @@ The purpose of this project, we create a face detector algorithm that is trained
   </p>
   
  <img src="images/SuccessFace.png" alt="Logo">
+ <img src="images/NonSuccess Face.png" alt="Logo">
  <br />
  
 <!-- CONTACT -->
